@@ -1,4 +1,5 @@
-# Data-Analysis-Dashboards
+# Business Intelligence Solution
+
 Implemented a business intelligence solution that contains:
 
 1. Data Extraction: Extraction of data from the company’s data warehouse (SQL Server Management Studio)
