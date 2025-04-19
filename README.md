@@ -8,4 +8,4 @@ Implemented a business intelligence solution that contains:
 
 3. MDX Calculation: Creating MDX query to extend cube capabilities.
 
-4. Business Analytics: Design and creation of visualization dashboard.
+4. Business Analytics: Design and creation of visualization dashboard (Power Bi).
